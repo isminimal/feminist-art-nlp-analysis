@@ -1,0 +1,981 @@
+M i c h a e l
+D a n g o
+Rape of the Earth: Ana Mendieta’s Defense of a Metaphor
+F
+eminists usually disapprove of rape metaphors—using the language or
+imagery of rape to describe something that is not rape. Most often, rape
+metaphors are deployed by those who have not experienced or are less
+likely to experience sexual violence, and the effect is to trivialize the experi-
+ences of survivors: this would include the example of the fraternity brother
+who complains, “that test raped me.” Less often, a rape metaphor might
+be used to highlight, rather than trivialize, violence, as when the ﬁrst Prime
+Minister of India, Jawaharlal Nehru, described India as a woman and British
+colonialism as possessing her: “but it was a possession of violence. They did
+not know her, or try to know her. They never looked into her eyes” (quoted
+in Fraser 2018, 730). Here, the effect is still to hide, rather than make visible,
+what rape is. Rachel Fraser, who discusses this speciﬁc example and others in
+an important recent article on “The Ethics of Metaphor” (2018), argues that
+the problem with such a metaphor, even if it does not trivialize rape, is that
+it nonetheless “restructures” the concept of rape, out of step with the “in-
+terests of a hermeneutically marginalized class—that is, victims of sexual vio-
+lence” (738). Projecting “rape” into non-rape domains retroactively changes
+what rape means, whereas stabilizing the meaning of rape is important for
+those who have survived it and those who seek to end it.
+Politically in sync with Fraser, I nonetheless come to the defense of one
+rape metaphor in this essay: the “rape of the earth” to describe the destruc-
+tion, manipulation, and degradation of natural environments, resources, and
+habitats. Or rather, I argue that the famous earthworks of Ana Mendieta
+come to such a defense. In her Siluetas series from 1973 to 1980, Mendieta
+dug, burned, or buried the silhouette of her body into mud, grass, and air at a
+number of sites, beginning in Oaxaca, Mexico, and spreading to other loca-
+tions she visited or in which she lived, especially around Iowa City, where she
+went to college and graduate school. Mendieta is often accused of visually
+performing a slip that Nehru performs rhetorically, conﬂating some essential
+femininity (“the female body”) with something else: the Indian state, for
+Nehru; nature or Mother Earth, for Mendieta. Rather than read the earth-
+works as conﬂating two essentialist subjects—woman and nature—I read
+them as aligning two structures of violence: sexual and environmental. To
+Signs: Journal of Women in Culture and Society, volume 48, number 1, Autumn 2022.
+© 2022 The University of Chicago. All rights reserved. Published by The University of Chicago Press.
+https://doi.org/10.1086/720432
+
+see these as aligned is indeed, as Fraser warns against, to restructure
+the concept of rape but only to better understand it: to see a larger context
+and set of conditions that come to bear upon the scene of sexual violence.
+In the following section, I show how Mendieta’s Siluetas earthworks ﬁrst
+emerged as extensions of performances explicitly engaged with rape in the
+early 1970s. Disturbed by violence against women at the University of Iowa,
+where she was a student, Mendieta restaged rape scenes or, rather, installed
+scenes that documented the effects of rape: for instance, her naked body
+strewn across a table in her apartment, blood on the walls, overturned furni-
+ture. These scenes had what semioticians, after Charles Sanders Peirce, would
+call an “indexical” relation to rape: they are the imprint evidencing that rape
+happened rather than, say, a representation of rape in a movie scene. The
+Siluetas, too, are indices, and what they index is not only Mendieta’s body
+but a structure of violence that has produced the body in a particular way, just
+as, in one of Peirce’s ﬁrst examples of an index, a murder produces a corpse
+([1867] 1992, 5). While often thought of as two different stages in her career,
+the earthworks and the rape works temporally and conceptually overlap in
+Mendieta’s oeuvre, and her ﬁrst Siluetas directly borrow iconography and ma-
+terials from concurrent blood-based performances. I argue that Mendieta
+turned from the scene of her apartment to the scene of “nature” to deepen
+her understanding of rape and to develop an indexical practice that could trace
+the intersections, rather than separability, of multiple structures of violence.
+To argue this not only shifts critiques of Mendieta as an essentialist; it
+also revises the important discourse on indexicality in visual art, beginning
+with Rosalind Krauss in her early essays on “Seventies Art” (1977a, 1977b),
+which do not include Mendieta, although she is arguably one of the most
+important artists of that decade, and expanded more recently in the work
+of visual culture scholars such as Mieke Bal (1990), Tina Campt (2012),
+and Mary Anne Doane (2007)—which is to say that indexicality has a fem-
+inist genealogy in art criticism and theory, one that I seek to extend. Fur-
+thermore, it reassess the sometimes fraught coalition between feminist and
+environmentalist movements.
+Ecofeminists are, like Mendieta, frequently accused of essentialism if they
+claim that women have an intrinsic connection to nature that fosters an ethic
+of stewardship. Among others, Greta Gaard (2011) has—I believe persua-
+sively—rebutted this accusation by instead showing how foundational works
+like Carolyn Merchant’s The Death of Nature, because they were invested in
+unveiling the modern discursive formation that feminized nature in order to
+authorize its exploitation, were nearly poststructuralist in their arguments
+(see also Estévez-Saá and Lorenzo-Modia 2018). For Merchant (1990),
+the point is not that women and nature are essentially linked but that the rise
+152
+y
+Dango
+
+of mathematical and scientiﬁc formalism beginning in the seventeenth cen-
+tury understood the “constraint” of nature through sexual metaphors: “the
+penetration of hidden secrets—language still used today in praising scien-
+tist’s ‘hard facts,’ ‘penetrating mind,’ or the ‘thrust of his argument’” (171).
+Because of metaphor’s authorization of violence, Merchant, while apprecia-
+tive of the ways in which environmentalism throughout the world was led
+principally by women in the late twentieth century, cautions against too easy
+of a metaphoric transfer between women and the object of their activism.
+She does not wish to “reinstate nature as the mother of humankind nor to
+advocate that women reassume the role of nurturer dictated by that histor-
+ical identity” (xxiv).
+Whereas, for Merchant, environmental violence is the target rather than
+source of the metaphor (so that sexual violence is mapped onto and legiti-
+mizes environmental violence), in many strands of critical theory, both
+Marxist and ecofeminist, “the domination of nature serve[s] as the ideolog-
+ical template for political domination generally” (Mathews 2017, 55). That
+is, the human-versus-nature binary encodes a further series of binaries that
+counterpose social classes. For Val Plumwood, in her foundational text on
+Feminism and the Mastery of Nature (1993), the fundamental binary of
+domination is more particularly that of reason over nature, such that nature
+is not only subordinate to but in the service of reason. Over the course of
+capitalist and imperialist development, reason became a master identity,
+but “the master identity is sensitive to context” (Mathews 2017, 59), be-
+cause which social groups get placed closest to nature, in order to be in-
+strumentalized for the groups placed closest to reason, will change according
+to social and historical conditions. Thus, in the early American context, as
+Annette Kolodny had already demonstrated in The Lay of the Land (1984),
+this domination of nature took on the added dimension of authorizing the
+colonial project and eventually the manifest destiny of settling the “wilder-
+ness” of the western part of the continent (7).
+In line with this reappraisal of early ecofeminist writers, Mendieta’s Si-
+luetas do not celebrate a connection between women and nature but critique
+the alignment of environmental and sexualized forms of domination. But the
+Siluetas are also more exacting than general theories of domination by insist-
+ing that environmental violence be understood not simply as domination
+generally but as rape speciﬁcally. At stake here are not the claims that nature
+is gendered or that violence is sexualized—claims that should, I think, be rel-
+atively uncontroversial. Instead, Mendieta’s earthworks conceptualize the
+form of environmental and sexual violence itself: a form that, I argue in the
+following sections, iteratively uses forceful resource extraction for the pro-
+duction of symbols memorializing vulnerability.
+S I G N S
+Autumn 2022
+y
+153
+
+Rape works and earthworks
+To date, the authoritative account of Mendieta’s early career remains Julia
+Herzberg’s (1998) indispensable and insightful, but unpublished, PhD dis-
+sertation. Herzberg was one of the ﬁrst to allow us to approach Mendieta’s
+Siluetas in the context of her travels to Mexico and her subsequent engage-
+ment with Indigenous iconography and cultures, especially as that iconogra-
+phy would develop more recently in Afro-Caribbean rituals and religious
+practices, including Santeria. In turn, these practices ﬁgure into Mendieta’s
+own reclamation of a culture she felt separated from when, at age twelve, she
+and her sister were sent from Cuba to be raised in Iowa as part of Operation
+Peter Pan, the 1960–62 mass evacuation of Cuban minors sent by parents
+alarmed by Fidel Castro’s parental policies.1 Her ﬁrst trip to Mexico was as
+part of college ﬁeld research with the archaeologist Thomas Charlton in
+the summer of 1971. Charlton brought Mendieta and other University of
+Iowa students to ruins of the ancient Mesoamerican city of Teotihuacán,
+and her encounter with pre-Columbian artifacts inﬂuenced the iconography
+of her artwork in the following years. Her 1972 Feathers on Woman, in which
+she glued chicken feathers to a model starting with her head and moving
+downward, may reference the plumed serpent known in numerous Meso-
+american religions by the name of Quetzalcoatl; several sculptures of the de-
+ity populate the Temple of the Feathered Serpent, the third largest pyramid
+at Teotihuacán and the earliest known evidence of its worship. Mendieta ex-
+perimented with similar modiﬁcations of the body that year in her MFA the-
+sis, which featured her “hair transplant” documentations in which she took
+the beard and mustache of a male colleague and attached them to her face.
+But whereas she framed that work in dialogue with Marcel Duchamp’s sim-
+ilar gender reassignment of Mona Lisa in his 1917 L. H. O. O. Q., an Indig-
+enous source for transformation across not only gender but species allowed
+Mendieta to widen the thematic content of her work in Feathers on Woman.
+1 In this section, I seek to bypass a tendency in Mendieta criticism to read her artwork
+merely through this biographical lens, but an artistic biography helps bring out latent connec-
+tions between her works. In attending to the formalism of Mendieta’s projects, I understand I
+risk erasing the kinds of particularity she might—as a woman immigrant from Cuba, for in-
+stance—have also been attempting to express through them. But I have been more concerned
+by the tendency in cultural studies to legitimize ethnic and women’s art and literature as ex-
+pression rather than aesthetic production, producing what Kandice Chuh calls “an overempha-
+sis on minoritized writings as political or anthropological documents rather than artistic crea-
+tions” (2019, 16). In this “segregation of aesthetics and politics,” in which artists of privilege
+receive formalist analysis and minoritized artists are mined for what they represent or tell us
+about their class status, “the aesthetics of minoritized literatures . . . have remained covered
+over” (17).
+154
+y
+Dango
+
+I will return to the decolonial implications of this iconography in the follow-
+ing section. For now, I want to highlight Mendieta’s simultaneous engage-
+ment with, or intersecting of, gendered and racialized symbols. Mendieta’s
+work comes at the beginning of a ten-year period in which Black feminists
+in particular unpacked the racialized imaginary of rape in the United States,
+inherited from a period of slavery in which the guilt of white rapists was pro-
+jected onto Black men, creating the stereotype of the beast, and the legal im-
+possibility of raping enslaved women created the stereotype of Black female
+promiscuity. In and around books such as Michele Wallace’s Black Macho
+and the Myth of the Superwoman (1979) and Angela Davis’s Women, Race,
+and Class (1981) and Violence against Women and the Ongoing Challenge
+to Racism (1985), scholars and activists showed how the racialized distribu-
+tion of rapability and culpability was also instrumental in securing the auton-
+omy and humanity of an emerging white middle class. At the conclusion of
+her groundbreaking work on the Color of Rape (2001), Sujata Moorti turns
+to art ﬁlms as a way of disrupting this legacy. Her case studies “do . . . not
+show rape” (209) but “destabilize . . . the axis of rape narratives and present
+a defamiliarized rape representation that requires the viewer to rethink
+women outside of their object-victim status” (210). As I will return to later,
+Mendieta’s work, which she documented in ﬁlm, forms a prehistory for the
+feminist tradition Moorti explores, and her interest in the intersection of
+gender and race was already evident in these student works that deployed In-
+digenous references.
+A more explicit engagement with pre-Columbian Mesoamerica began in
+1973, when Mendieta’s mentor (and lover) in the newly formed MFA in
+Intermedia, Hans Breder, brought a class to the Yagul archaeological site
+in Oaxaca. She would return with the class the following summer as well.
+Critics often call the image Mendieta produced in her ﬁrst summer, Untitled
+(Image from Yagul), the ﬁrst Silueta, with Mendieta in a rocky terrain with
+ﬂowers seeming to bloom from her body, visualizing a kind of interspecies
+exchange of agency. But such an image, by including Mendieta’s body in
+the image itself, is not, strictly speaking, a silhouette. For her part, Mendieta
+has referred to her “ﬁrst” silhouette as being produced the following sum-
+mer, when she outlined her body with blood in the Palace of the Six Patios,
+a labyrinthine complex that was being actively excavated at Yagul in 1974
+(quoted in Herzberg 1998, 223). For that image, Breder ﬁrst traced her
+body in the dirt, then Mendieta dug a shallow recession in the dirt along
+the outline and poured in chicken blood. She called it Laberinth Blood Im-
+print, referencing the maze of ruins surrounding her installation.
+The move from her body in the 1973 Untitled (Yagul) to her silhouette
+in the 1974 Laberinth Blood Imprint was part of a series of developments
+S I G N S
+Autumn 2022
+y
+155
+
+she made in her artistic practice in the intervening school year, when most of
+her creative energy was focused on, even obsessed with, the visual iconogra-
+phy of sexualized violence. On March 13, 1973, University of Iowa student
+Sara Ann Ottens was found naked, bloodied, and strangled to death in her
+dormitory. It would later be discovered that her accused murderer, a part-
+time student James Wendall Hall, had not raped her before killing her, but
+coverage of the incident at the time assumed sexual victimization. Shortly
+after the incident, Mendieta invited students in her art class to her apartment,
+where they discovered her naked, bent over a table, and covered in (chicken)
+blood, reproducing the scene of Ottens’s death as it had been described in
+the local newspapers. This Untitled (Rape Scene) is the performance art piece
+related to sexual violence for which Mendieta would become most well
+known in the following years.
+But this initial engagement with rape, by reproducing a scene of violence
+with her body as the victim, was only the ﬁrst of a rapidly mutating series of
+works that Mendieta developed immediately before, and then in symbiotic
+relation with, her Silueta series. At her ﬁnal exhibition at Iowa during course-
+work that school year, she presented Dead on Street, in which the ﬂashes of a
+camera alerted audience members leaving the show to her bloodied body in
+the street. This introduced the theme of documentation, which became cen-
+tral in subsequent works (she ﬁlmed many of her Siluetas on Super 8 ﬁlm,
+a popular medium for home video production), but it most importantly
+moved the scene of violence from the domestic space of the apartment to
+the public sphere. Mendieta began to stage other violent scenes in public
+spaces, including the alleyway next to her apartment, where she left blood
+and tattered jeans; and the sidewalk in front of the Mofﬁt Building in down-
+town Iowa City, where she left splashes of blood and then photographically
+documented the reactions, frequently indifferent, of those who walked by.
+In removing her body from the scenes and leaving only the props that had
+been imprinted by a supposed violent event, Mendieta shifted the subject
+of the artwork from the body of the victim to the spectators and bystanders
+implicated in the scene of violence. This is to say, the focus of her art became
+not the effects violence has on a private body but the effects—and, very often
+and tragically, the lack of effects—it has on a public.
+In removing the body from the visual economy of the rape image,
+Mendieta was, in other words, doing something different than what Mieke
+Bal (1990) has called the “rhetorical” displacement of rape. For Bal, “rape
+itself cannot be visualized,” which she takes as an ontological fact more than
+a social prohibition, because rape “takes place inside”—as an act of penetra-
+tion of mind and body—and because “rape makes the victim invisible” by
+physically covering her body and shattering her sense of self (141). If rape
+156
+y
+Dango
+
+cannot be seen, what becomes interesting is what can be. Bal looks at a pair of
+paintings by Rembrandt that pick up on the story of Sextus Tarquin’s rape of
+Lucretia by depicting not the rape itself but Lucretia’s act of suicide in re-
+sponse to it. How to read the relation between suicide and rape? Bal provides
+three options. First, it could be a metaphor, which by saying “one thing to
+mean another” substitutes suicide for rape, with the effect of conveying
+“the idea that the victim is responsible for her own destruction: she kills her-
+self. The element self thus displaced the attention from rapist to the victim”
+(142). Second, it could be a metonymy, which means the relation between
+rape and suicide is one of association rather than replacement; here, rape
+causes suicide, thus, suicide refers back to the rapist rather than displacing
+his responsibility onto Lucretia as metaphor does. Third, we could interpret
+the suicide as synecdoche, in which part stands in for whole, and therefore
+“self-murder becomes the detail that represents the entire process” (143).
+Here, “Lucretia’s act does not detract from the signiﬁcance of the rape
+but is part of her position as victim, thus emphasizing the perpetrator’s re-
+sponsibility” (143). As I will argue in the following section, Mendieta is in-
+vested in metaphor, although her making “one thing to mean another” is
+about mirroring structures of violence rather than looking away from them.
+But Mendieta is not trying to look away but to look toward, here toward the
+public, who oversee violence. In turn, she moves beyond Bal’s victim/per-
+petrator dyad and focuses on a third ﬁgure, the bystander or witness.
+After her return from Oaxaca that summer, Mendieta continued to ex-
+pand the scope of her documentation of violence by considering not only
+the urban environment of streets, alleyways, and sidewalks but also the seem-
+ingly natural environment of the surrounding area. In fall 1973, she recreated
+the bloodied body of her earlier Untitled (Rape Scene) in a wooded area.
+This new Rape Piece included the documentation not only of her body
+but of the foliage around it, which, too, had been stained by the blood she
+used on her body. In October of that year, she also created a scene of blood-
+ied Mattresses in an empty farmhouse. When Charles Ray, who was also
+studying at the University of Iowa, discovered the scene, he reported to
+his classmates that he thought he had stumbled onto a real scene of violence.
+Throughout her documentations of violence, whether with her body or
+without it, blood was Mendieta’s constant medium. But she began to be es-
+pecially interested in the signiﬁcance of blood when the body was not pre-
+sent. In an earlier work from 1972, Chicken Piece, she had held a just-
+decapitated chicken in front of her nude body, which in turn collected the
+splatters of blood as if it were a canvas for the Jackson Pollocks of the previ-
+ous generation. But with a work like Mattresses, what became important was
+how blood referenced a body’s destruction precisely through its absence. To
+S I G N S
+Autumn 2022
+y
+157
+
+make blood visible requires opening up a body. But the mutilated body
+haunts rather than grounds a work like Mattresses, introducing a new theme
+of spectrality.
+In the spring of 1974, immediately before the second trip to Oaxaca and
+the production of what she would call her ﬁrst Silueta, the Laberinth Blood
+Imprint, Mendieta made Blood Sign #1 and Blood Sign #2. In these works,
+she traced the outlines of her body onto a studio wall using buckets of animal
+blood as her paint and her hands as brushes. In marking the shape of her
+body with blood, she turned the absence of her body into a form of ab-
+straction, expanding on the spectrality of the Mattresses by making absence
+into a kind of presence: the presence of a sign. What the Laberinth Blood Im-
+print does is take a work like the Blood Signs and move it outdoors, just as
+Mendieta moved from the private space of her apartment to the public spaces
+of the street and eventually the environmental spaces of the surrounding
+woods. In turn, the Laberinth Blood Imprint represents a combination of her
+gradual move from interior to exterior and her gradual removal of the body
+to make it an abstract sign. I return to the Laberinth Blood Imprint as Men-
+dieta documented it on ﬁlm in the following section, but I ﬁrst take the in-
+vitation of her naming the intermediate pieces “signs” to reﬂect on the kind
+of abstraction and signifying at stake in the Siluetas.
+Indexing the rape of the earth
+In an inﬂuential two-part essay on “Seventies Art in America” published in
+1977, Rosalind Krauss considers a wide range of contemporary artworks
+in sculpture and installation as meditating on the concept of the “index.”
+She glosses the term—developed most extensively by the pragmatist Charles
+Sanders Peirce ﬁrst in an 1867 essay and then more extensively in a series of
+lectures and letters in the early 1900s—as “marks or traces of a particular
+cause, and that cause is the thing to which they refer, the object they signify”
+(Krauss 1977a, 70). One of the examples she looks at, for instance, is the cast
+shadow, which does not represent its object but refers to and is caused by it,
+much like how a footprint is the trace of a foot but does not itself represent a
+foot or smoke is the mark of ﬁre but does not itself look like ﬁre. One of
+Peirce’s early examples of an index, which may seem counterintuitive but
+is now taken by many, including Krauss, as paradigmatic, is a photograph.
+As Peirce explains in perhaps his most frequently cited passage, which Krauss
+also quotes: “Photographs, especially instantaneous photographs, are very
+instructive, because we know that they are in certain respects exactly like
+the objects they represent. But this resemblance is due to the photographs
+having been produced under such circumstances that they were physically
+158
+y
+Dango
+
+forced to correspond point by point to nature” ([1894] 1998, 6; quoted in
+Krauss 1977b, 63). Photographs are an index because they are the chemi-
+cal imprint of what they refer to, and this is what makes them different from,
+say, a painting, which may similarly look like what it depicts but was not physi-
+cally caused by it.
+Krauss thought that many other media in the 1970s were beginning to
+model themselves after photography in terms of aiming for an indexical rela-
+tion to objects. The appeal, she writes, was that this indexical relation was “un-
+coded” and a photograph was “sub- or pre-symbolic, ceding the language of
+art back to the imposition of things”; other art forms similarly attempted to
+“substitute the registration of sheer physical presence for the more highly ar-
+ticulated language of aesthetic conventions (and the kind of history they en-
+code)” (Krauss 1977a, 75, 81). An index does not come weighted with the
+history of form or the arbitrariness of language. It functions not as symbol
+but as selection, not representing the world but—like how a photograph
+frames or crops part of the visible—merely pointing to some aspect of it.
+In an important essay on Peirce and visual analysis, Michael Leja (2000)
+pushes back against this insistence on the brute physicality of the index, an
+insistence he believes is naive in underestimating the persistence of the sym-
+bolic and the impossibility of the “uncoded” relation, the inescapability of
+those “aesthetic conventions.” Jackson Pollock’s paint spatters, Leja’s con-
+cluding example, may seem mere imprints of his gestures, the simple effects of
+his arm swinging paint against a canvas. But the point, Leja says, is that they’re
+on a canvas, and this invokes aesthetic convention at the same time as it claims
+to eschew it. In a thought experiment invoking a setting germane to Mendieta’s
+works in dirt, Leja proposes: “Imagine Jackson Pollock lying on the beach and
+leaving traces in the sand by virtue of moving his arms and hands as he reclines.
+Now compare these traces of arm movements on the beach with the painted
+records of his arm movements in his paintings. The identical physical move-
+ment will produce two different forms of index with two different signiﬁ-
+cances. Whereas the mark in the sand may stand simply as evidence of a move-
+ment, the painted line made within a frame by the identical movement will be
+simultaneously and necessarily a symbolic gesture” (119).
+Peirce, for his part, acknowledges that “it would be difﬁcult if not impos-
+sible to instance an absolutely pure index, or to ﬁnd any sign absolutely de-
+void of indexical quality” (1932, 306). In the 1867 essay from which the ma-
+jority of art critics and media theorists have developed accounts of the index,
+Peirce offers three types of signs. In addition to an index, which has a “real”
+connection to its object, usually by way of causation, a sign could be an icon,
+which looks like the object, or a symbol, which refers to its object by way of
+convention. In his more mature reﬂections on the sign in the early 1900s,
+S I G N S
+Autumn 2022
+y
+159
+
+Peirce moves away from a tripartite taxonomy of three different types of
+signs and toward three different functions of a sign. The basic division re-
+mains the same—icon, index, symbol—but the point is that a single sign
+can be functionally both iconic and indexical, for instance, as is a photo-
+graph: sure, it’s indexical in that it was chemically caused by its object, but
+the photograph also looks like its object, iconically. This crisscrossing of re-
+lations between object, sign, and interpretation is staged dramatically in Ana
+Mendieta’s work, which, in turn, complicates Krauss’s account of indexical
+art; although of the same period that Krauss surveys—“Seventies Art”—
+Mendieta offers not a pure index but a mixing and cross-hatching of semi-
+otic functions. Take the original Rape Scene staged in her apartment in
+1972. Blood is an index of violence, as violence has produced its appearance
+in the opening up of the body. But the blood on Mendieta’s body is not itself
+an index, as it was not violence against her, or against a human body, that
+produced it. Rather, it is chicken blood she bought at a local butcher. So
+she is actually representing a rape scene iconically but representing the scene
+as an index of rape. She is not representing the rape itself but the effects rape
+has on bodies, bloodied—and rooms, disarrayed.
+In contrast, the Laberinth Blood Imprint is in many ways an index, and
+made in dirt, it is even of the paradigmatic kind of index that Peirce gives
+us in the footprint in the sand or that Leja offers in the thought experiment
+of Jackson Pollock thrashing about on the beach. But the outline of Men-
+dieta’s body is not present because she lay there and imprinted the sand with
+her shape but because she dug into the dirt to make the sign. Upon ﬁrst look-
+ing at the outline, we are likely to take it as a representation of a body rather
+than an index of it. Or, if we take the form not as a representation of Men-
+dieta but as a more abstract representation of, say, the feminine, then we take
+it as a symbol, in the same way we would take ♀as a symbol. What becomes
+interesting is how Mendieta has produced this symbol through an indexical
+relation to the earth. Scholars have tended to stress the imprinting of the
+feminine form in the earth as bringing the feminine and the earth into sym-
+biosis or even equivalence.2 But the point is that the feminine form is actually
+produced through a violence on the earth, through a cutting into the earth.
+The feminine is not a reﬂection of the earth but a product of the earth’s ma-
+nipulation, even mutilation.
+2 This is the so-called essentialist reading of Mendieta’s work. For a summary of these de-
+bates, see the introduction to Viso (2004). For inﬂuential challenges to the essentialist reading,
+see especially Kwon (1994) and Best (2007). For the poststructuralist defense of Mendieta—
+that her work stages not a static essence but a performative contingency of identity categories—
+see especially Blocker (1999).
+160
+y
+Dango
+
+What this brings out is that the same thing can be a sign of many different
+things. You could take these printed words as signs (symbols) of my think-
+ing, but you could also take them as signs (indices) of a printing process.
+This was one of the reasons Peirce became obsessed in the latter part of
+his life with analyzing the many different possibilities of what he called
+“interpretants” ([1906] 1998, 477). Krauss, in calling something an index,
+is talking about its relation to the object to which it refers. Leja, in talking
+about how we approach a canvas differently than we do a stretch of beach, is
+talking about how we take up and interpret it; we summon a set of conven-
+tions for canvases that we don’t bother to summon for beaches. Krauss and
+Leja don’t necessarily disagree; they’re just talking about different things.
+To take the example of a footprint in the sand: what matters to Krauss is that
+it was produced by an actual foot stepping there, a foot to which the foot-
+print existentially points, whereas for Leja, what matters is how the footprint
+is understood by someone walking by; for instance, whether its shape is val-
+ued in and of itself, or whether the person walking by begins to wonder
+about the foot that made it, or whether, perhaps, as a detective, to wonder
+whether the footprint leads to a murder suspect. For approaching a sign as
+an index is a different matter than whether the sign was existentially pro-
+duced as an index. If we take the footprint as an index, it points us to the
+existence of the foot that made it, but it does not point us to many of the
+qualities of that foot, like whether it was hairy or had been recently bathed
+with scented soap, or even the person to whom it belongs, like their age or
+what shirt they were wearing that day. So, too, if we think of the footprint as
+an index, a lot of its qualities will not matter to us—for instance the color of
+the sand in which it is imprinted. That tells us about the sand; it doesn’t tell
+us about the foot.
+What matters to Peirce in the “interpretant” is how the sign focuses our
+understanding. The point of thinking about three different functions of a
+sign in his later writings is to provide a pragmatic foundation for the division
+of signs, the different uses to which they can be put, or the different effects
+they will, in time, have on interpretants. Thus, he talks of indices as “more or
+less detailed directions for what the hearer is to do in order to place himself
+in direct experiential or other connection with the thing meant” or a “kind
+of sign which shall act dynamically upon the hearer’s attention and direct it
+to a special object or occasion” (Peirce 1932, 336; quoted in Freadman
+2004, 120). All indices point to something; they therefore say to someone,
+“Hey, look here!” As Anne Freadman (2004) glosses the transition in her in-
+dispensable book on Peirce’s semiotics, “The focus is now on semiosis as pro-
+cess, rather than on the sign as entity” (171). The effect was to think of signs
+as overseeing a primarily temporal and diachronic procedure rather than a
+S I G N S
+Autumn 2022
+y
+161
+
+synchronic spatiality in which, say, signiﬁed 5 signiﬁer. Semiotics in turn be-
+came an investigation—and this sense of investigation will be important for
+the detective aesthetic of Mendieta’s cinematic documentations of her
+Siluetas, discussed below—and the particular investigation provoked by
+the index is one that can open up what Peirce calls “the common environ-
+ment of the interlocutors” ([1903] 1998b, 281). In giving directions, the
+index also gives a common object for all to look at. In his 1903 lectures at
+Harvard on the “Algebra of Logic,” Peirce discussed as one index a landmark
+such as the Bunker Hill Monument, whose designer, according to Peirce,
+said he meant for “it to say simply, ‘Here!’ It just stands on that ground
+and plainly is not movable. So if we are looking for the battle-ﬁeld, it will
+tell us whither to direct our steps” (Peirce [1903] 1998a, 163; quoted in
+Freadman 2004, 125).
+Mendieta’s Siluetas appear as monuments in this sense; they seem to des-
+ignate a space and, in their indexicality, seem to say “Look here!” And yet, it
+may seem unclear at ﬁrst what instructions Mendieta’s Siluetas afford; it may
+seem that they present the impossibility of a common environment rather
+than its facilitation. It is not just that Mendieta stages a problem of commu-
+nication across cultural difference in, for instance, her use—some have said
+appropriation (Hyacinthe 2019)—of Afro-Caribbean religious images with
+which many spectators would be unfamiliar, and with which she herself was
+unfamiliar before she began to employ them; or across historical difference,
+in her use of Indigenous images and contexts ﬁlmed on a then fairly new
+technology, the Super 8 home movie camera. It is also that we do not know
+at ﬁrst what Freadman would call its “genre” (2004, 125); we know the
+Siluetas, as indices, point to something, but point to what? In the midst of
+what Lauren Berlant (2018) might call the index’s “genre ﬂail,” the index
+also becomes what Mary Ann Doane (2007), in her contribution to a special
+issue on indexicality that she coedited for differences, calls “eminently ex-
+ploitable” (148). Faced with an indeterminate index, not deﬁnitely pointing
+to X or even a category of X, we are led to imagine its referential object, to
+construct its genre. Such an insight partially underwrites the uptake of
+indexicality in critical race theory, because whereas (for instance) a photo-
+graph of people of color might seem to index race, it in fact produces race
+(Mirzoeff 2003). The body cannot be an index of race, since race has no bi-
+ological substrate; rather, race is produced through our engagement with
+the photograph, and we retroactively implant it as a cause rather than effect.
+As Tina Campt (2012) puts it, “photography serves a critical function in ma-
+terializing race as a visible attribute of human difference by simultaneously
+producing and propagating it as a meaningful category of humanity” (49).
+Campt’s term for this phenomenon, the “performative index,” also applies
+162
+y
+Dango
+
+to the way in which photographs may aspirationally produce forms of rela-
+tionality that they ofﬁcially claim only to document; a photograph might
+“enact . . . and thereby produce . . . the very forms of subjectivity and linkage
+it appear[s] to record” (162).
+This performative indexicality, as well as its ramiﬁcations for the produc-
+tion of social difference, both gendered and racialized, is dramatically staged
+in Mendieta’s Super 8 documentation of what she called her ﬁrst in the se-
+ries, the Laberinth Blood Imprint, in the summer of 1974.3 The Silueta is
+in the central room of a labyrinth, the rocky walls of the maze still upright
+and affording only certain paths of movement. The video begins at a dis-
+tance from the Silueta itself, elsewhere in the ruins and along a path that
+may eventually lead to the central room but that has no immediate view of
+it. The camera looks down at the dirt pathway, at an angle that emphasizes
+the path itself rather than where it leads, like looking down at one’s feet
+for something dropped there. But the handheld camera is especially shaky,
+making it hard to focus on or ﬁnd whatever object has been misplaced,
+and so we are encouraged to read the ground itself, to see it not as some sur-
+face on which an interesting object could be placed but as the object itself,
+warranting close reading. One of the only cuts in the sequence happens early,
+when a sudden shot of one of the walls ﬂanking the path is replaced by the
+shot of the path itself. The camera zooms in to such a degree, it takes a
+few seconds of movement to reveal that the surface, with all its detail, is
+the rocky wall itself, and we seem invited to read its every crook and shadow.
+Eventually, the camera pans back to the pathway, this time at a higher angle,
+looking more straight ahead as the camera, too, moves forward as we walk
+down the path. But the camera gets distracted from its movement and again
+looks down and to the sides of the walls. The shaky camera, the slow and hes-
+itant nature of the walking, and the too-close reading invited by the atten-
+tion to surface all work together to create a sort of detective aura and almost
+a sense of suspense: an anxiety that everything could matter (because every-
+thing could be a clue) at the same time that something surprising (a bad sur-
+prise) may lurk around the corner.
+The second and ﬁnal cut in the sequence is from another close-up shot of
+the wall to the interior of the labyrinth. We are at ﬁrst peering around a cor-
+ner and now glimpse the Silueta on the ground. Is this what we were look-
+ing for? It explains our attention to the ground and the walls, as if we were
+searching for this outline and knew it could be somewhere, or anywhere, that
+3 I join a recent trend in Mendieta scholarship to center her cinematic practice of docu-
+menting her works. See Joseph et al. (2015).
+S I G N S
+Autumn 2022
+y
+163
+
+it was not going to be an object hung on the wall like a painting. As we walk
+into the center of the labyrinth, the camera ﬁrst looks to the sides of the
+room, away from the Silueta, as if still scanning the space for other clues, other
+aspects to focus on. But ﬁnding nothing—or, perhaps, ﬁnding there is no
+danger, that no one else is here—we pan back to the Silueta and, in getting
+closer and slowly circling around it, make out some of its features: the circle
+and horizontal lines that iconize a head and outstretched arms; a bulbous
+midsection atop two ovals that suggest legs. The body is oriented away from
+us—the head closest to the camera, the feet furthest away—and its outline is
+ﬁlled with blood.
+At one point, the camera again looks up, at a separate entrance into (or
+exit from) the room, perhaps conﬁrming again that no danger lurks. The
+camera, too, remains hesitant in its approach to the Silueta, at one point
+backing away before ﬁnally building the courage—if not quite the nerve
+to stabilize the frame itself, which continues to shake—to approach the
+bloody imprint and circle completely around to the other side to look at it
+in what we might call its proper orientation, standing up. Here the imprint
+recalls the Blood Signs in which Mendieta used blood on her hands to make
+shapes on the wall, her body and her canvas aligned and oriented in the same
+direction. Such an orientation is aspirational in this video rather than pro-
+vided; it is the work of overcoming hesitation, uncertainty, and fear to ﬁnally
+position yourself in such a way that the imprint could be your shadow, could
+be mirroring you.
+The camera’s hesitant approach to the object, its scouting for clues, posi-
+tions us at ﬁrst as a detective coming upon a crime scene, like the original
+rape scene Mendieta had staged in her apartment. Coming upon the object,
+the blood indexes a violent crime that has happened. But here there is an
+added difference: for unlike the apartment that Mendieta rented and there-
+fore had a right to disorganize, and unlike the studios in which she was au-
+thorized to perform her Blood Signs works, this archaeological site does not
+invite her artistic manipulation. In turn, the outline that seems to index a
+crime of violence also is a crime of desecration. This literally is a crime scene,
+in other words, and not only the index of some other crime of violence.
+In emphasizing a supposed essentialist connection between women and
+nature, or in emphasizing Mendieta’s use of Indigenous spaces as a mode of
+connecting to a cultural heritage from which historical colonialism and con-
+temporary anti-Cuban sentiment had severed her, critics have tended to
+overlook the violence that Mendieta not only represents but herself per-
+forms: against the Indigenous space she desecrates and against the nature
+she manipulates, not only in the digging up of land but also in the decapi-
+tation of the chicken whose blood is poured into the land. The violence on
+164
+y
+Dango
+
+the land takes on allegorical meaning in the crisscrossing of iconic, indexical,
+and symbolic interpretants. The blood looks like human blood, marking an
+iconic connection; it is the effect of and points backward to the violence that
+produced it, indexing the violence against nature and nonhuman animals
+and forming a human shape, but an abstract one that cannot quite be re-
+ferred to any one individual; the blood symbolizes a collective human sub-
+ject, something like mankind. And yet the form also indexes Mendieta’s
+body, since it is carved into the ground as her silhouette, and so the symbol
+is not quite universal, not quite Mankind in the universal, but therefore mas-
+culine, understanding. Although we are led by the camera’s detective gaze
+to read the form like a crime subject outline, it is instead a symbol of the
+victimization of some portion of humanity.
+Together, these elements point to a kind of violence whose purpose is the
+production of symbols: a violence against nature that also looks like a vio-
+lence against humans to symbolically create victimization. Both the violence
+against nature and against humans are brought together in the coformation
+of the symbol, which in turn suggests their similarities. Both convert raw ma-
+terial into symbolic value; or really, the violence is this conversion itself, the
+opening up of land and body for symbolic use. That is to say, the silhouette
+does not make an essentialist conﬂation of woman and nature but instead
+aligns two structures of violence. For both, there is a double theater of vio-
+lence: ﬁrst the violence against nature or bodies, but then second the symbol
+of victimization that the silhouette memorializes. The symbol says not only
+that this earth and this human ﬁgure have been raped but also that the earth
+in general, and humans generally, are eminently rapable. If it is a monument,
+in the indexical sense explored by Peirce and Freadman, it is one that points
+to, or threatens, victimization, like a head on a pike warns the visitor to be-
+ware it could be their head, too.
+Mary Mellor (2017) has written about “the common experience of ex-
+ploitation, damage, and marginalization that women and the natural world
+share” (89). Modern economies rely on “externalization,” which Mellor de-
+ﬁnes as the “failure of formal economic accounting to ‘cost in’ the work of
+nature or women’s work” (90). Writing in another context, Rachel Fraser
+(2020) has also turned to an economic conceptualization of rape by way
+of critiquing the dominance of trauma narratives in discourses of sexual vio-
+lence, not only because witnessing trauma may recreate trauma but because
+this framework may disenable other perspectives, too: “Rape traumatizes,
+yes, but it does other things too. It might, for example, prove useful to think
+of the labor extracted by sexual violence—the labor of caring and recovery,
+of managing fear, of checking the backseat—rather than of the trauma it in-
+ﬂicts.” The Siluetas, too, are about labor: they show the iterative extraction
+S I G N S
+Autumn 2022
+y
+165
+
+of value from bodies earthen and human in order to symbolize the perma-
+nent condition of possible victimization.
+This leaves us with two ways of interpreting the hesitant, but ﬁnal, iden-
+tiﬁcation of the camera with the symbol, the taking up of a position as if the
+silhouette is one’s shadow. On the one hand, it is a hesitant identiﬁcation
+with the symbol of victimization. On the other hand, it may be to take up
+the position of one who has authored this victimization, the one whose con-
+version of raw material into symbolic value is before us. Here, we take up the
+position of complicity in a structure of violence, and the looks away and awry
+are like a bystander’s efforts to avoid accountability. What the co-presence of
+two competing indexical interpretants provides is the knowledge of their
+actual inseparability, or the artiﬁciality of the separation. What the Silueta
+shows is that a position that dominates today may be dominated tomorrow,
+for no body is exempt from vulnerability; indeed, a desire both to control
+and be controlled may be within each of us, just as the camera is both afraid
+of ﬁnding a crime scene around the corner and yet eager to go looking for it.
+In this dual staging of perpetrator and victim, Mendieta’s camera antici-
+pates the cinematographic form of the slasher ﬁlms that would take America
+by storm in the next couple of years—in which movies like the 1978 Hallow-
+een have us alternately occupy the perspective of the sadist and the victim, as
+Linda Williams (1991) has demonstrated in a groundbreaking article—and
+also echoes an earlier art ﬁlm on the relation of the camera to forms of abuse,
+Yoko Ono’s Film No. 5 (Rape or Chase), more commonly known by the sim-
+pler and provocative title, Rape (1969). For that ﬁlm, Ono instructed a camera-
+man in London to relentlessly follow and ﬁlm a twenty-one-year-old woman
+from Austria for three days. The crew received the consent of the subject’s
+sister beforehand, but she herself was unaware of the setup and became in-
+creasingly distressed by the attention. The ﬁlm is not just a representation of
+violation but is itself a violation, a nonconsensual encroachment of personal
+space and autonomy, although not the violation named in the ﬁlm’s title.
+Joan Kee (2016) argues that the ﬁlm was called “rape” because “there was
+yet no language to describe what was talking place”: stalking, the action this
+ﬁlm performs, “was not yet a legal concept in Britain” (192). In turn, the ﬁlm
+has a complicated politics; it victimizes a woman, but in turn it also makes
+visible, raises consciousness about, a form of victimization that was, to the
+law and to the ofﬁcial culture of which it is an instrument, invisible.
+The legal perspective introduces a further complication, however, and
+one that helps bring out a further dimension of Mendieta’s project. As Joan
+Hawkins (2000) explains in her analysis of the ﬁlm, it matters that the object
+of stalking is not only a woman, thereby enabling a gendered allegory of
+men’s belief in their access to women’s bodies, but an Austrian woman in
+166
+y
+Dango
+
+England, lacking both proﬁciency in English and the proper documents au-
+thorizing her stay. “Certainly the gaze of the camera goes a long way toward
+emphasizing (for the audience) her status as foreign, ‘exotic’ Other,” Haw-
+kins explains (134). In thus staging the collusion of patriarchy and imperial-
+ism, Rape provides a proto-intersectional account of systems of subjugation.
+In Laberinth Blood Imprint, too, the fact that rape iconography is produced
+as a desecration of Indigenous spaces suggests that what partially mediates
+between the alignment of environmental and sexual violence is the specter
+of colonialism, itself a process of rending apart bodies, natural and human
+alike. In cycling through the positions of perpetrator and victim, the camera
+documenting Laberinth Blood Imprint stages the inheritance of this legacy
+as one that continues to produce harm in the present.
+Importantly, this cycling through positions of perpetrator and victim, in
+order to access a more fundamental ambivalence that cannot simply resolve
+into one or the other, is not one of empathetic exchange, in which, for in-
+stance, we experience the emotional reality of a rape survivor or perpetrator.
+Angelique Szymanek (2016), writing in this journal, has criticized how
+Mendieta’s Rape Scene is often read as “an empathetic activist gesture” that
+detracts from the ways in which Mendieta in fact rejects empathy and wit-
+nessing as the grounds for “civic duty and moral certitude” (904). Similarly,
+Laberinth Blood Imprint does not give us subject positions to inhabit but
+symbolic vantage points from which to have a structural perspective. In thus
+focusing on a structure of violence, Mendieta also moves beyond the indi-
+vidualized psychological terms in which rape is usually understood, whether
+in discussions of empathetic bystanders or, more frequently, the consent or
+nonconsent of participants in a sexualized scene. Instead, Mendieta has us fo-
+cus on our relation to symbolic structures. To shift the focus from empathy
+to symbol, from interiority to structure, is not to claim some dispassionate
+or neutral viewing practice. Writing about the Rape Scene, Leticia Alvarado
+(2015) has argued that “Mendieta makes visible the Kantian expectation of
+a disinterested spectator but also the violence and complacency inherent in
+the passive contemplation of the taste-bearing subject of judgment” (79).
+The hesitant camera work documenting Laberinth Blood Imprint similarly
+rebuffs the expectation of disinterestedness. What we see instead are our own
+investments in the production of symbols of harm, our desire to go looking
+for it, like detectives, however sheepishly we round the corner of the maze.
+What Mendieta’s indexical practice does, however, is disappoint the de-
+sire to go looking for expressions of personal trauma as the index of rape.
+In departing from individualized trauma, what I want to emphasize here is
+not that Mendieta is uncaring about the individual victim, and indeed we
+can read the gesture of making a silhouette, of putting this body into the
+S I G N S
+Autumn 2022
+y
+167
+
+frame, as one of particularizing the universal. But what the Silueta says is
+that, from the perspective of structure, individuals are interchangeable, not
+because their psychological experience is the same but because their symbolic
+functioning is the same, just as the scars of coal mining symbolize not only
+that particular violence against nature but man’s dominion over nature in gen-
+eral. This interchangeability was evident in Mendieta’s ﬁrst intuition to place
+her own body in the place of Sara Ann Ottens’s. Her increasing moves to ab-
+straction, ﬁrst to blood without bodies, then to the blood tracks in the studio,
+and ﬁnally in the ﬁlled forms like in Laberinth Blood Imprint, are evolving re-
+alizations of the abstract valence of violence, its immediate end the violence
+itself but its ﬁnal end the forming of lasting symbols that memorialize it. At
+the same time, it again matters that it is through the desecration of Indige-
+nous space that environmental and sexual violence are aligned, for colonial
+violence as a means of securing the symbol of the rapability of the body tells
+a story about whose and what kinds of harm can be memorialized or, as Ju-
+dith Butler (2009) might say, “grievable.” That is to say, although all bodies
+can be violated, only some bodies are culturally understood as rapable, and
+the exclusion of the colonized body is repeated in the way in which this ac-
+tual desecration of Indigenous space is not taken up or interpreted as an in-
+dex of colonial violence.
+In this way, Mendieta’s work is a kind of obverse to how the conceptual
+and performance artist Adrian Piper would develop indexicality in the fol-
+lowing decade. In a pair of lectures on “Xenophobia and the Indexical Pre-
+sent” presented in 1989 and 1992, Piper explained her efforts to immerse
+her audience in the “concrete, immediate here-and-now” she called the “in-
+dexical present” (1999, 247). The idea was to get people to engage with her
+as a Black woman without the intermediation of an abstract concept like
+Blackness: “xenophobia can be overcome by focusing on the speciﬁc, unique,
+concrete qualities of individuals” (257) in a “direct and immediate experience
+of the complexity of the other” (248). In contrast, Mendieta seeks not to dis-
+mantle intermediary concepts but to abstract from her body’s imprint in the
+dirt a new kind of concept that can relate structures of violence. Furthermore,
+whereas Piper would go on to say that her strategy for combatting sexism was
+different from her strategy for combatting racism—because the kind of inter-
+personal intimacy that could overcome the latter was often an “obstacle to
+liberation from sexism” when women are, precisely through their intimate
+relationships, conscripted into patriarchal gender roles (247)—Mendieta’s
+indexical practice uses this conceptual space to intersect, rather than disen-
+tangle, these structures.
+Because the Siluetas form a series, they also suggest the iterative structure
+of environmental and sexual violence, the way a memorial to domination
+168
+y
+Dango
+
+over earth and body is propped up by the continued exercise of extracting
+symbolic value. For what environmental and sexual violence both seek to deny
+is a larger symbiotic relationship in which humans and nature and humans
+themselves are entangled. Ecologically, humanity is part of nature, but the
+man/nature binary emerges from a disavowal of this entanglement, in the tak-
+ing up of a position of mastery that morphs the circular shape of an ecological
+circuit into the oppositional shape of a dichotomy. So, too, does sexual vio-
+lence create a victim/perpetrator binary by disavowing the actual vulnerability
+of all bodies and the fundamental ambivalence at the heart of sexuality, in
+which drives to sadism and to masochism are mutually constitutive within a
+single psyche. But because the underlying fact of entanglement and ambiva-
+lence is permanent, this exercise of erecting binaries—so that one is not both a
+part of nature and outside of it, or both dominant and submissive—requires a
+sequential, iterative rehearsal. The symbolic differentiation of two bodies, the
+splitting of ambivalence and entanglement into a neater economy of opposi-
+tion, must be elaborately performed. In thus both performing and memorializ-
+ing violence as an iterative extraction of bodies for the purpose of producing
+symbols, Mendieta dramatizes and visualizes the alignment of environmen-
+tal and sexual violence at the level of structure.
+Metaphoric discourse: A coda
+In saying environmental and sexual violence are aligned in a structure that
+iterates the forceful conversion of raw bodies into symbolic value, and in
+pointing to, by indexing, the shared features of this structure in reducing
+circular ecologies—both planetary and psychological—to binary pairs, Men-
+dieta’s Laberinth Blood Imprint advances a new function for metaphor spe-
+ciﬁcally and aesthetic discourse generally. What metaphoric thinking opens
+up through this earthwork is a space in which environmental and sexual
+ﬁelds can speak to one another in coauthoring a theory of rape. By saying en-
+vironmental degradation and sexual violence are both rape, the earthwork
+does not look away from rape but instead generates a new concept of rape
+that can intersect two domains of domination.
+This essentially conceptual function of art differs from the task art is most
+often called upon to perform in discussions of sexual violence: expressing or
+representing the emotional experience of survivors. Especially when viewed
+in relation to other discourses—in particular, the legal discourse that has mo-
+nopolized the conceptualization of rape in the past generation—aesthetic
+discourse is tasked with humanizing impersonal abstractions. The law con-
+verts personal experience into other metrics, especially in determining the se-
+verity of harm, or the years in jail, or dollars in punitive damages that an event
+S I G N S
+Autumn 2022
+y
+169
+
+of rape warrants. In contrast to this mode of quantiﬁcation, art is supposed to
+return us to the lived experience of actual people (Peters 2005). But this de-
+fense of art has tended to overlook the kinds of abstract thinking art itself per-
+forms—and is good at performing. In conceptualizing rape at the level of
+structure, Mendieta does not deny the importance and legitimacy of emo-
+tional forms of expression. But Mendieta’s work is able to visualize harm
+even without requiring that survivors do the emotional labor of making
+themselves available for empathy; it preserves the importance of personal ex-
+perience by making it inessential to the structural conception of harm it theo-
+rizes. Mendieta’s earthworks embrace abstraction and metaphoric thinking
+to expand rather than narrow our understanding of the theaters of violence.
+English and Media Studies
+Beloit College
+References
+Alvarado, Leticia. 2015. “‘. . . Towards a Personal Will to Continue Being “Other”’:
+Ana Mendieta’s Abject Performances.” Journal of Latin American Cultural Stud-
+ies 24(1):65–85.
+Bal, Mieke. 1990. “Visual Poetics: Reading with the Other Art.” In Theory between
+the Disciplines: Authority/Vision/Politics, edited by Martin Kreiswirth and Mark A.
+Cheetham, 135–50. Ann Arbor: University of Michigan Press.
+Berlant, Lauren. 2018. “Genre Flailing.” Capacious: Journal for Emerging Affect
+Theory 1(2):156–62.
+Best, Susan. 2007. “The Serial Spaces of Ana Mendieta.” Art History 30(1):57–82.
+Blocker, Jane. 1999. Where Is Ana Mendieta? Identity, Performativity, and Exile.
+Durham, NC: Duke University Press.
+Butler, Judith. 2009. Frames of War: When Is Life Grievable? London: Verso.
+Campt, Tina M. 2012. Image Matters: Archive, Photography, and the African Dias-
+pora in Europe. Durham, NC: Duke University Press.
+Chuh, Kandice. 2019. The Difference Aesthetics Makes: On the Humanities “After
+Man.” Durham, NC: Duke University Press.
+Davis, Angela Y. 1981. Women, Race, and Class. New York: Vintage.
+———. 1985. Violence against Women and the Ongoing Challenge to Racism.
+Latham, NY: Kitchen Table.
+Doane, Mary Ann. 2007. “The Indexical and the Concept of Medium Speciﬁcity.”
+differences 18(1):128–52.
+Estévez-Saá, Margarita, and María Jesús Lorenzo-Modia. 2018. “The Ethics and
+Aesthetics of Eco-Caring: Contemporary Debates on Ecofeminism(s).” Women’s
+Studies 47(2):123–46.
+Film No. 5 (Rape or Chase). 1969. Directed by Yoko Ono and John Lennon. Vienna:
+Austrian TV Österreichischer Rundfunk.
+170
+y
+Dango
+
+Fraser, Rachel. 2018. “The Ethics of Metaphor.” Ethics 128(4):728–55.
+———. 2020. “Rape Fantasies.” The Point Magazine, January 28. https://
+thepointmag.com/criticism/rape-fantasies/.
+Freadman, Anne. 2004. The Machinery of Talk: Charles Peirce and the Sign Hypoth-
+esis. Stanford, CA: Stanford University Press.
+Gaard, Greta. 2011. “Ecofeminism Revisited: Rejecting Essentialism and Re-
+placing Species in a Material Feminist Environmentalism.” Feminist Formations
+23(2):26–53.
+Hawkins, Joan. 2000. Cutting Edge: Art-Horror and the Horriﬁc Avant-Garde.
+Minneapolis: University of Minnesota Press.
+Herzberg, Julia. 1998. “Ana Mendieta, the Iowa Years: A Critical Study, 1969
+through 1977.” Doctoral dissertation, City University of New York. https://
+academicworks.cuny.edu/gc_etds/1431.
+Hyacinthe, Genevieve. 2019. Radical Virtuosity: Ana Mendieta and the Black At-
+lantic. Cambridge, MA: MIT Press.
+Joseph, Laura Wertheim, Lynn Lukkas, Raquel Cecilia Mendieta, John Perreault, Mi-
+chael Rush, and Rachel Weiss. 2015. Covered in Time and History: The Films of
+Ana Mendieta. Edited by Howard Oransky. Oakland: University of California Press.
+Kee, Joan. 2016. “Art Chasing Law: The Case of Yoko Ono’s Rape.” Law and Lit-
+erature 28(2):187–208.
+Kolodny, Annette. 1984. The Lay of the Land: Metaphor as Experience and History in
+American Life and Letters. Chapel Hill: University of North Carolina Press.
+Krauss, Rosalind. 1977a. “Notes on the Index: Seventies Art in America.” October 3:
+68–81.
+———. 1977b. “Notes on the Index: Seventies Art in America; Part 2.” October 4:
+58–67.
+Kwon, Miwon. 1994. “Bloody Valentines: Afterimages by Ana Mendieta.” In Inside
+the Visible: An Elliptical Traverse of Twentieth-Century Art in, of, and from the
+Feminine, edited by Catherine de Zegher, 165–71. Cambridge, MA: MIT Press.
+Leja, Michael. 2000. “Peirce, Visuality, and Art.” Representations 72: 97–122.
+Mathews, Freya. 2017. “The Dilemma of Dualism.” In Routledge Handbook of
+Gender and Environment, edited by Sherilyn MacGregor, 54–70. New York:
+Routledge.
+Mellor, Mary. 2017. “Ecofeminist Political Economy: A Green and Feminist Agenda.”
+In Routledge Handbook of Gender and Environment, edited by Sherilyn Mac-
+Gregor, 86–100. New York: Routledge.
+Merchant, Carolyn. 1990. The Death of Nature: Women, Ecology, and the Scientiﬁc
+Revolution. 2nd edition. New York: HarperOne.
+Mirzoeff, Nicholas. 2003. “The Shadow and the Substance: Photography and In-
+dexicality in American Photography.” In Only Skin Deep: Changing Visions of the
+American Self, International Center for Photography, edited by Coco Fusco and
+Brian Wallis, 111–27. New York: International Center of Photography.
+Moorti, Sujatha. 2001. The Color of Rape: Gender and Race in Television’s Public
+Spheres. Albany, NY: SUNY Press.
+S I G N S
+Autumn 2022
+y
+171
+
+Peirce, Charles Sanders. (1867) 1992. “On a New List of Categories (1867).” In
+The Essential Peirce: Selected Philosophical Writings, Volume 1, 1867–1893, edited
+by Nathan Houser and Christian J. W. Kloesel, 1–10. Bloomington: Indiana
+University Press.
+———. (1894) 1998. “What Is a Sign?” In The Essential Peirce: Selected Philosoph-
+ical Writings, Volume II, 1893–1913, edited by Peirce Edition Project, 4–10.
+Bloomington: Indiana University Press.
+———. (1903) 1998a. “The Categories Defended (Lecture III).” In The Essential
+Peirce: Selected Philosophical Writings, Volume II, 1893–1913, edited by Peirce
+Edition Project, 160–78. Bloomington, Indiana: Indiana University Press.
+———. (1903) 1998b. “Sundry Logical Conceptions (1903).” In The Essential
+Peirce: Selected Philosophical Writings, Volume II, 1893–1913, edited by Peirce
+Edition Project, 267–88. Bloomington: Indiana University Press.
+———. (1906) 1998. “Excerpts from Letters to Lady Welby.” In The Essential
+Peirce: Selected Philosophical Writings, Volume II, 1893–1913, edited by Peirce
+Edition Project, 477–91. Bloomington: Indiana University Press.
+———. 1932. Collected Papers of Charles Sanders Peirce, Volume II: Elements of
+Logic. Edited by Charles Hartshorne and Paul Weiss. Cambridge, MA: Harvard
+University Press.
+Peters, Julie Stone. 2005. “Law, Literature, and the Vanishing Real: On the Future
+of an Interdisciplinary Illusion.” PMLA 120(2):442–53.
+Piper, Adrian. 1999. Out of Order, Out of Sight, Volume 1: Selected Writings in Meta-
+Art 1968–1992. Cambridge, MA: MIT Press.
+Plumwood, Val. 1993. Feminism and the Mastery of Nature. New York: Routledge.
+Szymanek, Angelique. 2016. “Bloody Pleasures: Ana Mendieta’s Violent Tableaux.”
+Signs: Journal of Women in Culture and Society 41(4):895–925.
+Viso, Olga M. 2004. Ana Mendieta: Earth Body; Sculpture and Performance, 1972–
+1985. Washington, DC: Smithsonian Institution.
+Wallace, Michele. 1979. Black Macho and the Myth of the Superwoman. New York:
+Dial.
+Williams, Linda. 1991. “Film Bodies: Gender, Genre, and Excess.” Film Quarterly
+44(4):2–13.
+172
+y
+Dango
